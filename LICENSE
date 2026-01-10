@@ -1,18 +1,42 @@
-MIT License
+Modified MIT License
 
-Copyright (c) 2026 EXP-Systems
+Copyright (c) 2026 EXP-Systems LLC
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+-----------------------------------------------------------------------------
+PLAIN ENGLISH SUMMARY
+-----------------------------------------------------------------------------
+This is a human-readable summary of, and not a substitute for, the license. 
+
+Disclaimer: this is not the license and should not be interpreted as such,
+and is merely a description of the features. Refer to the license section
+below for the applicable license text.
+
+EXP Systems LLC has released this repository under a modified MIT license.
+
+You are free to use and modify the Materials in accordance with this license
+e.g. for modifying the design or for making your own tools, provide you give
+proper attribution to EXP Systems LLC, do not claim or imply association
+with or endorsement by EXP Systems LLC. 
+
+-----------------------------------------------------------------------------
+LICENSE
+-----------------------------------------------------------------------------
+Whereby "MATERIALS" refer to all digital plans, drawings, pictures and files
+distributed with this GitHub repository.
+
+Permission is hereby granted, free of charge, to any person or organization
+obtaining a copy of this repository MATERIALS to use without restriction, 
+including without limitation the rights to use, copy, modify, merge, publish, 
+distribute, sublicense, manufacture and/or sell copies of the MATERIALS, and 
+to permit persons or organization to whom the MATERIALS is furnished to do so,
+subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+copies or modified versions of this material, and as a printed paper copy of
+the copyright notice included in any physically manufactured tools whether
+sold for profit or not, and whether the MATERIALS were modified or not.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER

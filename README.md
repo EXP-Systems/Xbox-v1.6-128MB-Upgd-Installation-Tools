@@ -26,8 +26,9 @@ The pin folding tool is made of two parts:
 1. The **Base**, on which the RAM chip is placed.
 2. The **Cover**, used by aligning with the base, and then pressing down to bend the pins to the new shape optimized to align with the RAM chip that will piggy-back on top of the existing chip on the Xbox 1.6
 
-Here are the step-by-step instructions:
-*Note: refer to the instructions.png image.*
+![Fold Pins Tool](https://github.com/user-attachments/assets/3ada9e32-9bf3-4dbb-ba89-9a4be69fc0eb)
+
+**Here are the step-by-step instructions:**
 
 **Step 1**. Insert the RAM chip into the base, making sure that the clocking mark is aligned with the matching mark on the tool. The clocking mark on the ship is the smaller circle in the lower left when looing at the chip from the top, with the text right side up.
 
@@ -58,3 +59,4 @@ Here are the step-by-step instructions:
 
 **Step 7**. Proceed with soldering the remaining pins, and connecting the Chip Select (CS) pin to the appropriate location on the motherboard.
 
+<img width="2525" height="1080" alt="Alignment_Tool_Instructions" src="https://github.com/user-attachments/assets/ff58f619-a6df-4f8a-af09-07db698476d9" />

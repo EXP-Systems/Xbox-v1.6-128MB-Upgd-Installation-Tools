@@ -41,6 +41,7 @@ The pin folding tool is made of two parts:
 **Step 5**. The chip will likely be slightly pressed into the Cover (or, less likely, the Base). Use a pen or the erasor end of a pencil through the hole of the Cover (or Base) to pop it out of the tool (make sure to be only an inch (2 cm) above your table surface. Inspect the chip to make sure that:
 - All pins are bent the same/evenly, and
 - Pin 28 (the Chip Select Pin) was not bent, as it must not be connected to the chip on the motherboard.
+*Note: images shown here are of an earlier version without the hole.*
 
 <img width="1593" height="702" alt="Instructions" src="https://github.com/user-attachments/assets/08e9663c-f1be-4b85-a1d0-b927df6e1439" />
 

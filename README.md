@@ -14,7 +14,8 @@ There are two tools, each in their own folder.
 Use a quality 3D printer, using a smaller nozzle for the most accurate print. The prototype tools printed by EXP Systems were printed as follows:
 - 3D printer: Prusa MK4S
 - Filament: PLA
-- Nozzle: 0.25 mm
+- Nozzle: 0.4 mm
+- Slice layer height: 0.15mm
 
 If you have any concerns about the accuracy of your print, measure the external size of the base.
 - The design is **41.97** x **35.98** mm
